@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Stack DataStructure
-
 typedef struct {
     char *data;
     int top;
